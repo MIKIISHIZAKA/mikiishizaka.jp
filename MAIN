@@ -1,0 +1,19 @@
+│
+├─ index.html ← トップページ
+├─ about.html ← プロフィール
+├─ lessons.html ← オンラインダンスレッスン
+├─ counseling.html ← カウンセリング
+├─ performance.html ← 実績・出演
+├─ contact.html ← お問い合わせ
+├─ privacy.html ← プライバシーポリシー
+│
+├─ styles/
+│ └─ styles.css
+│
+├─ scripts/
+│ └─ scripts.js
+│
+└─ images/
+├─ hero.jpg
+├─ profile.jpg
+└─ その他必要写真
