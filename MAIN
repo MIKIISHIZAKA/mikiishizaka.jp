@@ -17,3 +17,226 @@
 ├─ hero.jpg
 ├─ profile.jpg
 └─ その他必要写真
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>プロフィール | 石坂ミキ</title>
+<link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">Profile</a></li>
+<li><a href="lessons.html">Dance Lessons</a></li>
+<li><a href="counseling.html">Counseling</a></li>
+<li><a href="performance.html">Performance</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<main>
+<section class="profile">
+<img src="images/profile.jpg" alt="石坂ミキ">
+<div>
+<h1>石坂ミキ（Miki Ishizaka）</h1>
+<p>日本出身のダンサー／指導者／パフォーマー／振付師。Chicago FootworkとHip-Hopを専門とし、Creation Global国際ティーチングクルーの一員として活動しながら、現在はCreation Japan代表を務めている。</p>
+<p>2024〜2025年、カナダ「Pound It HipHop Studio」にて1年間、Chicago FootworkとHip-Hopの指導を担当。</p>
+<p>オンライン学習プラットフォーム「Chicago Footworkology」共同創設者として、世界中のコミュニティをつなぎ、誰もがアクセスできる形でFootworkを学べる環境を提供。</p>
+</div>
+</section>
+
+<section class="achievements">
+<h2>主な実績</h2>
+<ul>
+<li>KENTO MORI CM ダンサー</li>
+<li>Girls’ Generation 振付アシスタント</li>
+<li>SMAP「JOY」MV・TBS出演ダンサー</li>
+<li>ドバイ「SOLE DXB」ASICS TIGER ダンサー</li>
+<li>Superfly LIVE 2023 ダンサー／振付アシスタント</li>
+<li>World Culture Festival 2023（ワシントンD.C.）出演</li>
+<li>Battle受賞歴多数（Battle Train Tokyo 2016 優勝など）</li>
+</ul>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2025 Miki Ishizaka. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="ja">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>オンラインダンスレッスン | 石坂ミキ</title>
+
+    <link rel="stylesheet" href="styles/styles.css">
+
+</head>
+
+<body>
+
+    <header>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="index.html">Home</a></li>
+
+                <li><a href="about.html">Profile</a></li>
+
+                <li><a href="lessons.html">Dance Lessons</a></li>
+
+                <li><a href="counseling.html">Counseling</a></li>
+
+                <li><a href="performance.html">Performance</a></li>
+
+                <li><a href="contact.html">Contact</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+
+
+    <main>
+
+        <section class="lessons">
+
+            <h1>オンラインダンスレッスン</h1>
+
+            <p>Chicago FootworkとHip-Hopを専門としたオンラインレッスン。初心者から上級者まで、個人・グループどちらでも受講可能です。</p>
+
+            <ul>
+
+                <li>レッスン時間：60分 / 回</li>
+
+                <li>料金：5,000円〜</li>
+
+                <li>対象：ダンス初心者〜プロ志望</li>
+
+            </ul>
+
+            <a href="https://calendly.com/" class="btn">レッスン予約</a>
+
+        </section>
+
+    </main>
+
+
+
+    <footer>
+
+        <p>&copy; 2025 Miki Ishizaka. All Rights Reserved.</p>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>オンラインカウンセリング | 石坂ミキ</title>
+<link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">Profile</a></li>
+<li><a href="lessons.html">Dance Lessons</a></li>
+<li><a href="counseling.html">Counseling</a></li>
+<li><a href="performance.html">Performance</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<main>
+<section class="counseling">
+<h1>オンラインカウンセリング</h1>
+<p>ダンサーや一般の方に向けたオンラインカウンセリング。心の整理やメンタルサポートを行います。</p>
+<ul>
+<li>セッション時間：60分 / 回</li>
+<li>料金：8,000円〜</li>
+<li>方法：Zoom・オンライン</li>
+</ul>
+<a href="https://calendly.com/" class="btn">カウンセリング予約</a>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2025 Miki Ishizaka. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>実績・出演 | 石坂ミキ</title>
+<link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">Profile</a></li>
+<li><a href="lessons.html">Dance Lessons</a></li>
+<li><a href="counseling.html">Counseling</a></li>
+<li><a href="performance.html">Performance</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<main>
+<section class="performance">
+<h1>主な出演・実績</h1>
+<ul>
+<li>KENTO MORI CM ダンサー</li>
+<li>Girls’ Generation 振付アシスタント</li>
+<li>SMAP「JOY」MV・TBS出演ダンサー</li>
+<li>LAイベント「Carnival」「8th Wonder」出演</li>
+<li>SAY「OMG」「WE ARE THE ONE」MV出演</li>
+<li>Koyote LAツアー バックアップダンサー</li>
+<li>24時間テレビ ダンスコンペティション審査員（2016）</li>
+<li>Jody Watley Billboard Live Tokyo バックアップ（2017）</li>
+<li>Dubai「SOLE DXB」ASICS TIGER ダンサー</li>
+<li>Superfly LIVE 2023 ダンサー・振付アシスタント</li>
+<li>World Culture Festival 2023（Washington D.C.）出演</li>
+<li>Kurtis Blow バックアップダンサー</li>
+</ul>
+
+<h2>Battle受賞歴</h2>
+<ul>
+<li>Battle Train Tokyo 2016 優勝（日本）</li>
+<li>Do Ur Homework vol.3 2018 優勝（LA）</li>
+<li>Hip-Hop Solo Battle「Bubblicious」2020 優勝（日本）</li>
+<li>Calgary HipHop & Dance Festival 2024 Houseカテゴリー優勝</li>
+</ul>
+
+<h2>主催・コミュニティ</h2>
+<p>CHICAGO FOOTWORK SESSION / BATTLE / PARTY “OPEN CIRCLE”（2018〜現在）</p>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2025 Miki Ishizaka. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
